@@ -1,0 +1,3 @@
+"Please excuse me.", "Excuse me",
+"Pardon me.", "Sorry, you're in my way",
+"Sorry about this, but can you move?"

@@ -1,0 +1,3 @@
+"I am straight up not vibing right now", "Sorry, it's been a rough day",
+"I'm not really feeling it right now", "Another time, I'm beat",
+"Bad vibes all around", "Sorry, I'm so out of it"

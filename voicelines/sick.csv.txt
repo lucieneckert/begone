@@ -1,0 +1,4 @@
+"Warning: I'm sick", "I'm sick, please keep your distance",
+"I HAVE A SICKNESS", "Sorry, I'm sick",
+"Please move out of coughing range", "Sickness detected: It's me, I'm sick",
+"Sorry about that, sick person moment", "I'm straight up not feeling good"
